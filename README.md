@@ -15,8 +15,9 @@ This is an Introduction to Computer Programming. By the end of this course, you 
 * The Python Tutorial ([available from the Python website](https://docs.python.org/3.6/tutorial/))
 
 ## Practice Python Online
-You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website for getting started with coding. It offers easy to follow lessons, interspersed with quizzes to help you retain what you are learning).
-
+You can learn python via the following websites:
+* [SoloLearn](http://www.sololearn.com/) (A great website for getting started with coding. It offers easy to follow lessons, interspersed with quizzes to help you retain what you are learning).
+* [Google Developer Python Tutorial](https://developers.google.com/edu/python/)  (highly recommended as a way to master python in just a few hours!) 
 ## Project Euler
 If you want to solve interesting problems with Python, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)!
 
