@@ -14,7 +14,7 @@ This is an Introduction to Computer Programming. By the end of this course, you 
 * [Practical Programming (2nd edition): An Introduction to Computer Science Using Python 3](https://pragprog.com/book/gwpy2/practical-programming) by Paul Gries, Jennifer Campbell, and Jason Montojo, 2013.
 * The Python Tutorial ([available from the Python website](https://docs.python.org/3.6/tutorial/))
 
-## Slides & JupyterNotbooks:
+## Slides & Jupyter NoteBooks:
 
 * [Python (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/python) by Colin Morris <br>
 
