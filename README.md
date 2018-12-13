@@ -14,6 +14,10 @@ This is an Introduction to Computer Programming. By the end of this course, you 
 * [Practical Programming (2nd edition): An Introduction to Computer Science Using Python 3](https://pragprog.com/book/gwpy2/practical-programming) by Paul Gries, Jennifer Campbell, and Jason Montojo, 2013.
 * The Python Tutorial ([available from the Python website](https://docs.python.org/3.6/tutorial/))
 
+## Slides & JupyterNotbooks:
+
+* [Python](https://www.kaggle.com/learn/python) by Colin Morris <br>
+
 ## Practice Python Online
 You can learn python via the following websites:
 * [SoloLearn](http://www.sololearn.com/) (A great website for getting started with coding. It offers easy to follow lessons, interspersed with quizzes to help you retain what you are learning).
