@@ -16,7 +16,7 @@ This is an Introduction to Computer Programming. By the end of this course, you 
 
 ## Slides & JupyterNotbooks:
 
-* [Python](https://www.kaggle.com/learn/python) by Colin Morris <br>
+* [Python (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/python) by Colin Morris <br>
 
 ## Practice Python Online
 You can learn python via the following websites:
