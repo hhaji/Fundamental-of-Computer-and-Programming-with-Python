@@ -1,7 +1,5 @@
 # Fundamental of Computer and Programming <br> with Python (Fall 2017)
-[Course: Fundamental of Computer and Programming with Python at Shahid Beheshti University 2017](http://facultymembers.sbu.ac.ir/hhaji/python-2017)<br>
-[Data Science Center](http://ds.sbu.ac.ir)<br> 
-[Shahid Beheshti University](http://www.sbu.ac.ir/)<br>
+[Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/)<br>
 
 ## Course Overview:
 This is an Introduction to Computer Programming. By the end of this course, you should be comfortable programming in Python, understand how good style is critical, and be familiar with core computer science topics like algorithms and complexity. Topics include functions, iteration, recursion, strings, and function calls.
